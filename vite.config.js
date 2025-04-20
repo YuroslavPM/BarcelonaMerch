@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [tailwindcss(),solidPlugin()],
   server: {
     port: 3000,
+    historyApiFallback: true, // Важно за SPA
   },
   build: {
     target: 'esnext',
