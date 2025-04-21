@@ -1,4 +1,4 @@
-Make it look good, this is a readme.md file: # 🛍️ SolidJS Merchandise Page
+🛍️ SolidJS Merchandise Page
 
 **Barcelona Merch** is a high-performance e-commerce platform for official FC Barcelona merchandise, delivering a **lightning-fast shopping experience** powered by **SolidJS**.
 
