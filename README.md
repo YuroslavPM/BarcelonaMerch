@@ -39,8 +39,8 @@ npm install
 # 3. Run development server
 npm run dev
 ```
+##📂 Project Structure
 ```bash
-📂 Project Structure
 src/
 ├── assets/              # Images and static files
 ├── components/          # Reusable UI components
@@ -53,11 +53,11 @@ src/
 │   └── Product.jsx      # Product detail view
 └── App.jsx              # Root component
 ```
-
-📜 License
+---
+##📜 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
-
-🔗 More Projects
+---
+##🔗 More Projects
 Check out more of my work:
 👉 https://github.com/YuroslavPM?tab=repositories
