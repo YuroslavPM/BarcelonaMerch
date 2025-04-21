@@ -39,6 +39,7 @@ npm install
 # 3. Run development server
 npm run dev
 ```
+---
 ##📂 Project Structure
 ```bash
 src/
