@@ -1,27 +1,53 @@
 ## 🛍️ SolidJS Merchandise Page
 
-**Description:**  
-This app is a simple merchandise page built with **SolidJS**, created as part of my journey learning the framework.  
-It's focused on displaying and potentially selling items, while exploring core Solid.js concepts like components, reactivity, and routing.
+🌟 PROJECT DESCRIPTION 🌟
+Barcelona Merch is a high-performance e-commerce platform 
+for official FC Barcelona merchandise, delivering a 
+lightning-fast shopping experience powered by SolidJS.
 
----
+✨ KEY FEATURES ✨
+🛍️  Complete product catalog with categories
+🔍  Detailed product pages with high-res images
+🛒  Persistent shopping cart (LocalStorage)
+🌙  Dark/Light theme toggle
+📱  Fully responsive design
 
-🔧 **Tech Stack:**
-- ⚛️ SolidJS (via Vite)
-- 🎨 Tailwind CSS / CSS Modules
+⚙️ TECHNOLOGIES USED ⚙️
+🔷 SolidJS - Blazing fast reactivity
+🔶 Solid Router - Seamless navigation
+🎨 Tailwind CSS - Beautiful utility-first CSS
+⚡ Vite - Next-gen frontend tooling
+💾 LocalStorage - Client-side cart persistence
 
+🚀 INSTALLATION 🚀
+1. Clone the repository:
+   git clone https://github.com/YuroslavPM/BarcelonaMerch.git
+   cd BarcelonaMerch
 
----
+2. Install dependencies:
+   npm install
 
-📚 **Learning Goals:**
-- Build real-world UIs with SolidJS
-- Practice component architecture
-- Understand reactivity and signals
-- Deploy lightweight SPAs
+3. Run development server:
+   npm run dev
 
----
+4. Open in browser:
+   http://localhost:3000
 
-🚀 Run Locally:
-```bash
-npm install
-npm run dev
+📂 PROJECT STRUCTURE 📂
+src/
+├── 📁 assets/       - Images and static files
+├── 📁 components/   - Reusable UI components
+│   └── 🧩 Card.jsx  - Product card component
+├── 📁 context/      - State management
+│   └── 🛒 CartContext.jsx - Cart functionality
+├── 📁 pages/        - Application views
+│   ├── 🛍️ Cart.jsx       - Shopping cart
+│   ├── 🏠 Home.jsx       - Landing page
+│   └── 📦 Product.jsx    - Product details
+└── 🔹 App.jsx       - Root component
+
+📜 LICENSE 📜
+MIT License - See LICENSE file for details
+
+🔹🔷🔹 VISIT MY PROJECTS AT 🔹🔷🔹
+https://github.com/YuroslavPM?tab=repositories
