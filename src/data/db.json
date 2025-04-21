@@ -4,56 +4,56 @@
         "id": 1,
         "title": "Barcelona Tee, Black",
         "description": "Black FC Barcelona t-shirt featuring the club's iconic crest. Stylish and comfortable, perfect for everyday wear or match days.",
-        "price": 12,
+        "price": 109,
         "img": "https://2.bp.blogspot.com/-0I7tlFly3Ew/XyPLSZbc3hI/AAAAAAACitA/4x58lnUeJUk_JnKkxR7H-OfbGNlaX-WWACNcBGAsYHQ/s1600/barcelona-20-21-away-kit%20(4).jpg"
       },
       {
         "id": 2,
         "title": "Barcelona Tee, White",
         "description": "Clean and fresh white tee with subtle Barça colors. Lightweight and breathable — ideal for casual fans and summer days.",
-        "price": 12,
+        "price": 89,
         "img": "https://pbs.twimg.com/media/F3kYxhgWEAAFEev.jpg"
       },
       {
         "id": 3,
         "title": "Barcelona Hoodie, Black",
         "description": "Cozy black hoodie with bold FC Barcelona branding. Stay warm while repping your favorite team in streetwear fashion.",
-        "price": 21,
+        "price": 75,
         "img": "https://store.fcbarcelona.com/cdn/shop/files/FCBESSENTIALSMASC2577.jpg?v=1720609363"
       },
       {
         "id": 4,
         "title": "Barcelona Hoodie, Red",
         "description": "Soft white hoodie featuring sleek Barça visuals. A modern and stylish way to support your club on chilly days.",
-        "price": 21,
+        "price": 80,
         "img": "https://store.fcbarcelona.com/cdn/shop/files/BARCACapsulaAbril24_FOTO42_3755_53324861-d240-4a8c-a948-2d7c28f65b79.jpg?v=1728306634"
       },
       {
         "id": 5,
         "title": "Barcelona Cushion",
         "description": "FC Barcelona-themed cushion for your couch or bed. Adds a sporty and colorful touch to your home decor.",
-        "price": 7,
+        "price": 20,
         "img": "https://www.stadionshop.com/media/catalog/product/mpiowebpcache/fd302db831d84e01b233adebca57abd7/4/5/45553_fc_barcelona_blazina_40x40_1.webp"
       },
       {
         "id": 6,
         "title": "Barcelona Tote Bag",
         "description": "Durable tote bag with Barça graphics. Great for groceries, gym gear, or showing your loyalty on the go.",
-        "price": 8,
+        "price": 12,
         "img": "https://ih1.redbubble.net/image.3509993081.1155/tb,840x840,medium-c,1,198,600,600-bg,f8f8f8.u1.jpg"
       },
       {
         "id": 7,
         "title": "Barcelona Cup",
         "description": "Classic ceramic cup with FC Barcelona logo. Start your mornings with coffee and club pride.",
-        "price": 12,
+        "price": 15,
         "img": "https://i.etsystatic.com/45627299/r/il/17c83d/6218605329/il_1080xN.6218605329_lpjw.jpg"
       },
       {
         "id": 8,
         "title": "Barcelona Figure",
         "description": "Collector's figure of FC Barcelona mascot. A perfect gift or decorative item for passionate fans.",
-        "price": 12,
+        "price": 25,
         "img": "https://www.elnacional.cat/enblau/uploads/s1/50/23/74/31/cat-la-nova-mascota-culer-instagram.jpeg"
       }
     ]
