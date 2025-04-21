@@ -39,6 +39,7 @@ npm install
 # 3. Run development server
 npm run dev
 ```
+```bash
 📂 Project Structure
 src/
 ├── assets/              # Images and static files
@@ -51,6 +52,7 @@ src/
 │   ├── Home.jsx         # Landing/home page
 │   └── Product.jsx      # Product detail view
 └── App.jsx              # Root component
+```
 
 📜 License
 This project is licensed under the MIT License.
